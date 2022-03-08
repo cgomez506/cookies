@@ -1,0 +1,66 @@
+@media (min-width: 750px) {
+    .col-sm-4 img {
+      max-width:300px; 
+    }
+  }
+
+
+body{
+  background-image: url("https://previews.123rf.com/images/tendo23/tendo231810/tendo23181000089/110690873-brown-wrinkle-recycle-paper-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: cursive;
+}
+  .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+   
+
+  }
+  #myNavbar a{
+    color:black;
+  }
+
+  .logo{
+    font-family: cursive;
+    text-align: center;
+  }
+
+.col-sm-4 {
+  text-align: center;
+
+}
+
+.col-sm-4 img{
+
+  margin-left:7px;
+  width:485px;
+  height:225px; 
+
+}
+
+
+.container{
+  min-height: 750px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.name-hidden-cookie{
+  text-align: center;
+}
+.hidden-cookie{
+
+  display: none;
+}
+
+.hidden-cookie h4{
+margin-left: 10px;
+  text-align: right;
+  display: flex;
+}
+
+footer{
+  background-color: white;
+}
